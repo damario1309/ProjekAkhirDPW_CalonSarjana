@@ -1,5 +1,5 @@
 <?php
 
-	define("base_url", "http://localhost/UASDpw/");
+	define("base_url", "https://projekakhirdpwcalonsarjana.herokuapp.com/");
 
 	
